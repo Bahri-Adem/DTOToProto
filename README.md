@@ -1,8 +1,8 @@
-# JavaToProto
+# DTOToProto
 
 ## Overview
 
-The `JavaToProto` class is a utility for generating Protocol Buffer Specification files from Plain Old Java Objects (POJOs). This class takes a POJO as input and creates the associated Proto Buffer Specification File. It supports various features like nested POJOs, enums, arrays, collections, maps, primitives, and boxed primitives.
+The `DTOToProto` class is a utility for generating Protocol Buffer Specification files from Data Transfer Objects (DTOs). This class takes a POJO as input and creates the associated Proto Buffer Specification File. It supports various features like nested POJOs, enums, arrays, collections, maps, primitives, and boxed primitives.
 
 ## License
 
